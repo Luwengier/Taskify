@@ -10,5 +10,3 @@ export const FormButton = () => {
     </Button>
   );
 };
-
-export default FormButton;
